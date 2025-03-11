@@ -1,4 +1,4 @@
-# 🏥 JP Hospital Healthcare Analytics Dashboard  
+# 🏥 Apollo Hospital Healthcare Analytics Dashboard  
 📊 **An interactive Power BI dashboard analyzing hospital performance and patient insights.**  
 
 ## 📷 Dashboard Preview  
@@ -7,7 +7,7 @@
 ---
 
 ## 📌 Project Overview  
-This **Power BI dashboard** provides insights into **patient statistics, hospital revenue, and department performance** for **JP Hospital**.  
+This **Power BI dashboard** provides insights into **patient statistics, hospital revenue, and department performance** for **Apollo Hospital**.  
 
 ### 🎯 Key Features  
 ✅ **Patient Analysis** – Total admissions, bed occupancy, and diagnosis trends.  
@@ -18,7 +18,7 @@ This **Power BI dashboard** provides insights into **patient statistics, hospita
 ---
 
 ## 📂 Dataset Information  
-- **Source:** **JP Hospital Database**  
+- **Source:** **Apollo Hospital Database**  
 - **Number of Records:** `7,157 rows × 11 columns`  
 - **Columns Used:** `Patient_ID, Admit_Date, Discharge_Date, Diagnosis, Bed_Occupancy, Test, Doctor, Followup_Date, Feedback, Billing_Amount, Health_Insurance_Amount`  
 
@@ -57,7 +57,7 @@ This **Power BI dashboard** provides insights into **patient statistics, hospita
 ## 📁 Files in Repository  
 | File Name                  | Description                                |
 |----------------------------|--------------------------------------------|
-| `JP_Hospital_PowerBI.pbix` | Power BI file containing the full dashboard |
+| `Apollo_Hospital_PowerBI.pbix` | Power BI file containing the full dashboard |
 | `Hospital_Data.xlsx`       | Processed dataset used for analysis        |
 | `PowerPoint_PPT.pptx`      | PowerPoint presentation for insights       |
 | `README.md`                | Project documentation                      |
@@ -65,7 +65,7 @@ This **Power BI dashboard** provides insights into **patient statistics, hospita
 ---
 
 ## 📊 Conclusion  
-This **JP Hospital Dashboard** provides a **data-driven** approach to analyzing **patient trends, financial insights, and hospital efficiency**. The interactive visuals help in:  
+This **Apollo Hospital Dashboard** provides a **data-driven** approach to analyzing **patient trends, financial insights, and hospital efficiency**. The interactive visuals help in:  
 
 ✅ Understanding **disease impact on revenue**  
 ✅ Optimizing **hospital resource allocation**  
