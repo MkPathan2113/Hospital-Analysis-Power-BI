@@ -2,7 +2,7 @@
 📊 **An interactive Power BI dashboard analyzing hospital performance and patient insights.**  
 
 ## 📷 Dashboard Preview  
-![Image](https://github.com/user-attachments/assets/a6d74618-dbbf-4c7f-9ecb-0da7f45835f2)
+![Image](https://github.com/user-attachments/assets/eba52a66-1d31-4fab-b1a0-633217c60897)
 
 ---
 
